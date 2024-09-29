@@ -1,0 +1,76 @@
+/* bustracking css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the bus tracking page */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+/* Heading style */
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Table styles */
+.bus-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.bus-table th, .bus-table td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.bus-table th {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Map styles */
+.map {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color: lightgray;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Bus styles */
+.bus {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%; /* Makes it a circle */
+}
+
+/* Navigation links */
+.nav-links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.nav-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
