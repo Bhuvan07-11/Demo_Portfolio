@@ -1,4 +1,4 @@
-Bhuvanesh Portfolio:
+# Project Portfolio:
 Introduction:
 This project is a single-page portfolio website created as the final project for the Introduction to Software Development course. The portfolio showcases the skills, projects, and recommendations of Bhuvanesh, a fictional full-stack developer.
 Features:
@@ -50,3 +50,10 @@ Add animations and transitions for a more dynamic user experience.
 
 Conclusion:
 This single-page portfolio website serves as a comprehensive showcase of Bhuvanesh's skills, projects, and recommendations. It demonstrates the application of HTML, CSS, and JavaScript learned throughout the course.
+
+# output
+![aboutme](https://github.com/user-attachments/assets/68330865-48b1-4374-ab5f-a997c1e107ec)
+![profile_name](https://github.com/user-attachments/assets/2663a351-02dc-4d60-8df8-168552a37240)
+![home_icon](https://github.com/user-attachments/assets/cbfebf67-9dda-45cf-ba57-bcf64b261906)
+![skills](https://github.com/user-attachments/assets/1143db82-82dc-458c-ae8a-7662932c50cf)
+
